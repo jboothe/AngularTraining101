@@ -1,0 +1,136 @@
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\Part3.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\Part3.pdb
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\Antlr3.Runtime.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\EntityFramework.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\Microsoft.Data.Edm.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\Microsoft.Data.OData.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\Microsoft.Web.Infrastructure.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\Newtonsoft.Json.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Net.Http.Formatting.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Spatial.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Helpers.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Http.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Http.OData.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Http.Tracing.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Http.WebHost.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Mvc.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Optimization.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Providers.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Razor.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.Deployment.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.Razor.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\WebGrease.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\EntityFramework.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\Newtonsoft.Json.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Net.Http.Formatting.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Helpers.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Http.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Http.WebHost.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Mvc.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.Razor.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.Deployment.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.Razor.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\Microsoft.Data.Edm.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\Microsoft.Data.OData.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\System.Spatial.xml
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\de\Microsoft.Data.Edm.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\es\Microsoft.Data.Edm.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\fr\Microsoft.Data.Edm.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\it\Microsoft.Data.Edm.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\ja\Microsoft.Data.Edm.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\ko\Microsoft.Data.Edm.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\ru\Microsoft.Data.Edm.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\de\Microsoft.Data.OData.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\es\Microsoft.Data.OData.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\fr\Microsoft.Data.OData.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\it\Microsoft.Data.OData.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\ja\Microsoft.Data.OData.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\ko\Microsoft.Data.OData.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\ru\Microsoft.Data.OData.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\de\System.Spatial.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\es\System.Spatial.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\fr\System.Spatial.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\it\System.Spatial.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\ja\System.Spatial.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\ko\System.Spatial.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\ru\System.Spatial.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\zh-Hans\System.Spatial.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\bin\zh-Hant\System.Spatial.resources.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\obj\Debug\Part3.csprojResolveAssemblyReference.cache
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\obj\Debug\Part3.dll
+Z:\Users\jboothe\Sites\_Training\AngularTodoWebAPI\Part3\obj\Debug\Part3.pdb
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\Part3.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\Part3.pdb
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\Antlr3.Runtime.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\Microsoft.Data.Edm.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\Microsoft.Data.OData.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\Newtonsoft.Json.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Net.Http.Formatting.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Spatial.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Helpers.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Http.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Http.OData.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Http.Tracing.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Http.WebHost.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Mvc.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Optimization.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Providers.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Razor.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.Deployment.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.Razor.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\WebGrease.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\Newtonsoft.Json.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Net.Http.Formatting.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Helpers.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Http.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Http.WebHost.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Mvc.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.Razor.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.Deployment.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Web.WebPages.Razor.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\Microsoft.Data.Edm.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\Microsoft.Data.OData.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\System.Spatial.xml
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\de\Microsoft.Data.Edm.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\es\Microsoft.Data.Edm.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\fr\Microsoft.Data.Edm.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\it\Microsoft.Data.Edm.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\ja\Microsoft.Data.Edm.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\ko\Microsoft.Data.Edm.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\ru\Microsoft.Data.Edm.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\de\Microsoft.Data.OData.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\es\Microsoft.Data.OData.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\fr\Microsoft.Data.OData.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\it\Microsoft.Data.OData.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\ja\Microsoft.Data.OData.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\ko\Microsoft.Data.OData.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\ru\Microsoft.Data.OData.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\de\System.Spatial.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\es\System.Spatial.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\fr\System.Spatial.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\it\System.Spatial.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\ja\System.Spatial.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\ko\System.Spatial.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\ru\System.Spatial.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\zh-Hans\System.Spatial.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\bin\zh-Hant\System.Spatial.resources.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\obj\Debug\Part3.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\obj\Debug\Part3.dll
+\\psf\Home\Documents\Visual Studio 2012\MyProjects\AngularTodoWebAPI\Part3\obj\Debug\Part3.pdb
